@@ -31,7 +31,7 @@ class Grupo:
 
     @ classmethod
     def asignarNombre(cls, nombre="Grado 10"):
-        cls.grado = nombre;
+        cls.grado = nombre
 
     @ classmethod
     def asignarNombre(cls, nombre="Grado 6"):
